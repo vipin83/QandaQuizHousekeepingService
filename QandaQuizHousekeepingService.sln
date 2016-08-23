@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QandaQuizHousekeepingService", "QandaQuizHousekeepingService\QandaQuizHousekeepingService.csproj", "{792E5EE0-FF5E-4EC7-B624-57584DF2CC87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QandaQuizEntityFramework", "..\QandaQuizNet\QandaQuizEntityFramework\QandaQuizEntityFramework.csproj", "{1B0635A7-E2D3-457B-9409-8ED018E15980}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://dedicat-lcaah1c:8080/tfs/defaultcollection
+		SccProjectUniqueName0 = ..\\QandaQuizNet\\QandaQuizEntityFramework\\QandaQuizEntityFramework.csproj
+		SccProjectName0 = $/Qanda/QandaQuizNet/QandaQuizEntityFramework
+		SccAuxPath0 = http://dedicat-lcaah1c:8080/tfs/defaultcollection
+		SccLocalPath0 = ..\\QandaQuizNet\\QandaQuizEntityFramework
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{792E5EE0-FF5E-4EC7-B624-57584DF2CC87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{792E5EE0-FF5E-4EC7-B624-57584DF2CC87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{792E5EE0-FF5E-4EC7-B624-57584DF2CC87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{792E5EE0-FF5E-4EC7-B624-57584DF2CC87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B0635A7-E2D3-457B-9409-8ED018E15980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B0635A7-E2D3-457B-9409-8ED018E15980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B0635A7-E2D3-457B-9409-8ED018E15980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B0635A7-E2D3-457B-9409-8ED018E15980}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
